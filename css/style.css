@@ -573,6 +573,7 @@ body {
   .we__block .item {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
+    justify-content: center;
   }
   .we__block .item-left {
     width: 450px;
