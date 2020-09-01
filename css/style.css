@@ -590,6 +590,7 @@ body {
   }
   .bill .block .reserv {
     margin-left: 0px;
+    margin-right: auto;
   }
   .bill .block .reserv .btn {
     left: 0px;
