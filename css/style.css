@@ -96,7 +96,7 @@ body {
 .service-block .service__card {
   margin-top: 30px;
   width: 380px;
-  min-height: 430px;
+  min-height: 370px;
   background: #FFFFFF;
   -webkit-box-shadow: 4px 5px 12px rgba(0, 0, 0, 0.25);
           box-shadow: 4px 5px 12px rgba(0, 0, 0, 0.25);
@@ -491,6 +491,10 @@ body {
 
 .we__block .item-left .done p {
   text-transform: uppercase;
+  font-size: 30px;
+  line-height: 57px;
+  letter-spacing: 0.01em;
+  color: #666666;
 }
 
 .we__block .item-right {
