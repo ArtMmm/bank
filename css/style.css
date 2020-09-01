@@ -585,9 +585,6 @@ body {
 }
 
 @media (max-width: 467px) {
-  .bill .block .bill__block .block__left {
-    width: 60%;
-  }
   .bill .block .bill__block {
     margin-left: 0px;
   }
@@ -595,6 +592,9 @@ body {
     margin-left: 0px;
     margin-right: auto;
     flex-direction: row;
+  }
+  .bill .block .bill__block .block__left {
+    width: 60%;
   }
   .bill .block .reserv .btn {
     left: 0px;
