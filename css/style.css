@@ -286,7 +286,7 @@ body {
   font-size: 30px;
   line-height: 35px;
   color: #000000;
-  margin-top: 39px;
+  margin-top: 30px;
 }
 
 .bill .block {
@@ -401,7 +401,7 @@ body {
 }
 
 .proposition-block {
-  margin-top: 39px;
+  margin-top: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -582,7 +582,7 @@ body {
 
 @media (max-width: 876px) {
   .form .form-block form {
-    padding-top: 20px;
+    padding-top: 0px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
