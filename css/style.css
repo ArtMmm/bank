@@ -235,7 +235,7 @@ body {
 }
 
 .form .form-block form input {
-  max-width: 325px;
+  width: 325px;
   height: 50px;
   background: #FFFFFF;
   -webkit-box-shadow: inset 0px 1px 6px rgba(0, 0, 0, 0.25);
@@ -599,6 +599,7 @@ body {
   .bill .block .reserv .btn {
     left: 0px;
   }
+  
   .top-title {
     font-size: 30px;
   }
