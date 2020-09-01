@@ -65,7 +65,7 @@ body {
   font-family: 'Avenir';
   font-style: normal;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 16px;
   line-height: 28px;
   color: #000000;
   word-wrap:  break-word;
@@ -75,6 +75,8 @@ body {
   word-wrap:  break-word;
   color: #3399FF;
   text-decoration: none;
+  font-weight: 700;
+  font-size: 16px;
 }
 
 .service-block {
