@@ -586,7 +586,7 @@ body {
 
 @media (max-width: 467px) {
   .bill .block .bill__block .block__left {
-    width: 80%;
+    width: 60%;
   }
   .top-title {
     font-size: 30px;
