@@ -618,6 +618,9 @@ body {
         -ms-flex-align: center;
             align-items: center;
   }
+  .service-block .service__card {
+    min-height: 450px;
+  }
   .service-block .service__card-button {
     left: 24%;
   }
