@@ -90,7 +90,8 @@ body {
 .service-block img {
    position: absolute;
    z-index: -1;
-   right: 5px;
+   right: -65px;
+   top: -35px;
 }
 .service-block .service__card {
   margin-top: 30px;
