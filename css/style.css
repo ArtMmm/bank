@@ -613,6 +613,9 @@ body {
   .we__block .item-left .done img {
     display : none;
   }
+  .we__block .item-left .done p {
+  font-size: 21px;
+  }
 }
 @media (max-width: 467px) {
   .service-block img {
