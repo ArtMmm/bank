@@ -618,6 +618,9 @@ body {
         -ms-flex-align: center;
             align-items: center;
   }
+  .bill .block .bill__block .block__left-descr {
+    font-size: 20px;
+  }
   .service__card {
     min-height: 450px;
   }
