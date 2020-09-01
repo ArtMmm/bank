@@ -609,7 +609,10 @@ body {
     margin-top: 20px;
   }
 }
-
+@media (max-width: 586px)
+.we__block .item-left {
+    width: 420px;
+}
 @media (max-width: 467px) {
   .service-block img {
     display: none;
