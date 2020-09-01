@@ -688,7 +688,7 @@ body {
     left: 24%;
   }
 }
-@media (max-width: 467px){
+@media (max-width: 340px){
   .service-block .service__card {
     min-height: 490px;
 }
