@@ -72,6 +72,7 @@ body {
 }
 
 .top-descr a {
+  word-wrap:  break-word;
   color: #3399FF;
   text-decoration: none;
 }
@@ -114,6 +115,7 @@ body {
   color: #666666;
   margin-top: 15px;
   word-wrap:  break-word;
+  margin-bottom: 20px;
 }
 
 .service-block .service__card span {
