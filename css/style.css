@@ -610,7 +610,7 @@ body {
   }
 }
 @media (max-width: 586px)
-.we__block .item-left img{
+.we__block .item-left .done img{
     display : none;
 }
 @media (max-width: 467px) {
