@@ -588,6 +588,12 @@ body {
   .bill .block .bill__block .block__left {
     width: 60%;
   }
+  .bill .block .reserv {
+    margin-left: 0px;
+  }
+  .bill .block .reserv .btn {
+    left: 0px;
+  }
   .top-title {
     font-size: 30px;
   }
