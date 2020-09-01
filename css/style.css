@@ -613,11 +613,20 @@ body {
   .form .form-block {
     padding: 60px 25px;
   }
+  .form .form-block .form-title {
+     line-height: 20px;
+  }
+  .form .form-block p {
+    line-height: 20px;
+  }
   .form .form-block form input {
     max-width:  240px;
   }
   .form .form-block form .form-btn {
     max-width:  240px;
+  }
+  .proposition-block .proposition__item {
+     margin-right: 0px;
   }
   .proposition-block .proposition__item .content img {
     display: none;
@@ -636,7 +645,7 @@ body {
   .bill .block .bill__block .block__left-descr {
     font-size: 20px;
   }
-  .service__card {
+  .service-block .service__card {
     min-height: 450px;
   }
   .service-block .service__card-button {
