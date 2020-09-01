@@ -87,7 +87,11 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
-
+.service-block img {
+   position: absolute;
+   z-index: -1;
+   right: -65px;
+}
 .service-block .service__card {
   margin-top: 30px;
   width: 380px;
