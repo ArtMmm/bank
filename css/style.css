@@ -575,7 +575,7 @@ body {
         flex-wrap: wrap;
   }
   .we__block .item-left {
-    width: 286px;
+    width: 450px;
     margin-right: 0px;
   }
 }
@@ -610,8 +610,8 @@ body {
   }
 }
 @media (max-width: 586px)
-.we__block .item-left {
-    width: 420px;
+.we__block .item-left img{
+    display : none;
 }
 @media (max-width: 467px) {
   .service-block img {
