@@ -596,8 +596,11 @@ body {
   .form .form-block {
     padding: 60px 25px;
   }
-  .form .form-block form input, .form .form-block form .form-btn {
-  max-width:  240px;
+  .form .form-block form input {
+    max-width:  240px;
+  }
+  .form .form-block form .form-btn {
+    max-width:  240px;
   }
   .proposition-block .proposition__item .content img {
     display: none;
