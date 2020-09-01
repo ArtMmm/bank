@@ -601,6 +601,9 @@ body {
 }
 
 @media (max-width: 467px) {
+  .service-block img {
+    display: none;
+  }
   .bill .block .bill__block {
     margin-left: 0px;
   }
