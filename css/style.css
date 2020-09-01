@@ -507,6 +507,12 @@ body {
 }
 
 @media (max-width: 1168px) {
+  .proposition-block .mr { 
+  margin: 10px 30px 30px 0px;
+}
+.proposition-block .ml { 
+  margin: 10px 30px 30px 0px;
+}
   .service-block {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
