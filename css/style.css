@@ -22,6 +22,7 @@ body {
   letter-spacing: 0.01em;
   color: #000000;
   margin: 0;
+  word-wrap:  break-word;
 }
 
 .title span {
@@ -55,6 +56,7 @@ body {
   letter-spacing: 0.03em;
   color: #54B44C;
   text-transform: uppercase;
+  word-wrap:  break-word;
 }
 
 .top-descr {
@@ -66,6 +68,7 @@ body {
   font-size: 24px;
   line-height: 28px;
   color: #000000;
+  word-wrap:  break-word;
 }
 
 .top-descr a {
@@ -110,6 +113,7 @@ body {
   line-height: 24px;
   color: #666666;
   margin-top: 15px;
+  word-wrap:  break-word;
 }
 
 .service-block .service__card span {
@@ -591,6 +595,9 @@ body {
   }
   .form .form-block {
     padding: 60px 25px;
+  }
+  .form .form-block form input {
+  max-width:  300px;
   }
   .proposition-block .proposition__item .content img {
     display: none;
