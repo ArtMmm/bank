@@ -609,9 +609,10 @@ body {
     margin-top: 20px;
   }
 }
-@media (max-width: 586px)
-.we__block .item-left .done img {
+@media (max-width: 586px){
+  .we__block .item-left .done img {
     display : none;
+  }
 }
 @media (max-width: 467px) {
   .service-block img {
