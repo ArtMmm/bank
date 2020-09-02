@@ -666,16 +666,16 @@ body {
     line-height: 20px;
   }
   .form .form-block form input {
-    max-width:  340px;
+    width:  90%;
   }
   .form .form-block form .form-btn {
-    max-width:  340px;
+    width:  90%;
   }
   .proposition-block .proposition__item {
      margin-right: 0px;
   }
   .proposition-block .proposition__item .content img {
-    display : none;
+    margin-top: 20px;
   }
   .proposition-block .proposition__item .content-descr {
     display: -webkit-box;
