@@ -613,7 +613,7 @@ body {
 }
 @media (max-width: 586px){
   .we__block .item-left .done img {
-    display : none;
+   margin-right: 16px;
   }
   .we__block .item-left .done p {
   font-size: 21px;
@@ -667,7 +667,7 @@ body {
      margin-right: 0px;
   }
   .proposition-block .proposition__item .content img {
-    margin-right: 16px;
+    display : none;
   }
   .proposition-block .proposition__item .content-descr {
     display: -webkit-box;
