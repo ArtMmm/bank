@@ -694,4 +694,7 @@ body {
   .service-block .service__card {
     min-height: 540px;
 }
+  .service-block .service__card-button {
+    left: 16%;
+}
 }
