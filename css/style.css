@@ -692,6 +692,6 @@ body {
 }
 @media (max-width: 340px){
   .service-block .service__card {
-    min-height: 490px;
+    min-height: 540px;
 }
 }
