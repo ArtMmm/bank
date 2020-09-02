@@ -689,6 +689,9 @@ body {
   .service-block .service__card-button {
     left: 24%;
   }
+  .clients-block .clients__item-descr {
+    font-size: 22px;
+  }
 }
 @media (max-width: 340px){
   .service-block .service__card {
