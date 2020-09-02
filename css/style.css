@@ -148,6 +148,7 @@ body {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  margin-top: 50px;
 }
 
 .clients-block .clients__item {
@@ -171,7 +172,7 @@ body {
 
 .clients-block .clients__item-img {
   width: 380px;
-  height: 360px;
+  height: 415px;
 }
 
 .clients-block .clients__item-img img {
@@ -621,6 +622,15 @@ body {
     margin-top: 20px;
   }
 }
+@media (max-width: 762px){
+  .clients-block {
+    margin-top: 10px;
+  }
+  .clients-block .clients__item { 
+    flex-direction: column-reverse;
+  }
+}
+
 @media (max-width: 586px){
   .we__block .item-left .done img {
    margin-right: 16px;
