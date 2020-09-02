@@ -706,7 +706,10 @@ body {
     font-size: 22px;
   }
 }
-@media (max-width: 340px){
+@media (max-width: 360px){
+  .proposition-block .proposition__item .content {
+  justify-content: center;
+}
   .service-block .service__card {
     min-height: 540px;
 }
