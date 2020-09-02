@@ -433,6 +433,7 @@ body {
   font-size: 26px;
   line-height: 17px;
   color: #3399FF;
+  height: 20px;
 }
 
 .proposition-block .proposition__item .content {
@@ -448,15 +449,18 @@ body {
 }
 
 .proposition-block .proposition__item .content-descr {
-  width: 140px;
+  width: 110px;
   font-weight: normal;
   font-size: 15px;
   line-height: 24px;
   color: #666666;
 }
 
-.proposition-block .proposition__item .content img {
+.proposition-block .proposition__item .content-image {
   height: 130px;
+  width: 117px;
+  display: flex;
+  justify-content: center;
 }
 
 .we__block .item {
