@@ -628,6 +628,13 @@ body {
   }
   .clients-block .clients__item { 
     flex-direction: column-reverse;
+    height: 504px;
+  }
+  .clients-block .even .clients__item-descr {
+    top: 20px;
+  }
+  .form { 
+    margin-top: 0px;
   }
 }
 
