@@ -413,13 +413,14 @@ body {
 
 .proposition-block .proposition__item {
   width: 360px;
-  height: 230px;
+  min-height: 230px;
   background: #FFFFFF;
   -webkit-box-shadow: 4px 5px 12px rgba(0, 0, 0, 0.25);
           box-shadow: 4px 5px 12px rgba(0, 0, 0, 0.25);
   border-radius: 5px;
   margin: 10px 30px 30px 0px;
   padding: 15px 50px 50px 40px;
+  display: flex;
 }
 .proposition-block .mr { 
   margin: 10px 30px 30px auto;
@@ -438,6 +439,7 @@ body {
   margin-top: 15px;
   display: -webkit-box;
   display: -ms-flexbox;
+  flex-wrap : wrap;
   display: flex;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
@@ -510,7 +512,7 @@ body {
 
 @media (max-width: 1245px) {
   .bill .block .bill__block {
-    width: 411px;
+    width: 300px;
   }
   .bill .block .bill__block .block__right img {
     display: none;
@@ -596,6 +598,9 @@ body {
   .form .form-block form .form-btn {
     margin-top: 30px;
   }
+  .bill .block .bill__block  {
+    justify-content: center;
+  }
 }
 
 @media (max-width: 853px) {
@@ -620,6 +625,9 @@ body {
   }
 }
 @media (max-width: 467px) {
+  .bill .block .bill__block .block__left img {
+     width: 220px;
+  }
   .service-block img {
     display: none;
   }
@@ -649,7 +657,7 @@ body {
     font-size: 22px;
   }
   .form .form-block {
-    padding: 60px 25px;
+    padding: 25px 25px;
   }
   .form .form-block .form-title {
      line-height: 20px;
@@ -658,10 +666,10 @@ body {
     line-height: 20px;
   }
   .form .form-block form input {
-    max-width:  240px;
+    max-width:  340px;
   }
   .form .form-block form .form-btn {
-    max-width:  240px;
+    max-width:  340px;
   }
   .proposition-block .proposition__item {
      margin-right: 0px;
