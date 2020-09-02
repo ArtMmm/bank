@@ -667,7 +667,7 @@ body {
      margin-right: 0px;
   }
   .proposition-block .proposition__item .content img {
-    display: none;
+    margin-right: 16px;
   }
   .proposition-block .proposition__item .content-descr {
     display: -webkit-box;
