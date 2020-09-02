@@ -636,7 +636,7 @@ body {
   }
   .bill .block .reserv {
     margin-left: 0px;
-    margin-right: auto;
+    margin-right: 0px;
     flex-direction: row;
   }
   .bill .block .bill__block .block__left {
