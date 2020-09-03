@@ -105,8 +105,8 @@ body {
   border-radius: 5px;
   padding: 22px;
   display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .service-block .service__card-title {
