@@ -132,8 +132,7 @@ body {
 }
 
 .service-block .service__card-button {
-  margin: auto;
-  margin-top: 20px;
+  margin: 20px auto 0px auto;
   padding: 16px 29px;
 }
 
