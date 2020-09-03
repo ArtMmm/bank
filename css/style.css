@@ -515,6 +515,7 @@ body {
 
 .we__block .item-right {
   max-width: 539px;
+  color: #666666;
 }
 
 @media (max-width: 1245px) {
@@ -637,6 +638,11 @@ body {
   .form { 
     margin-top: 0px;
   }
+  .bill .block .reserv .btn {
+    padding: 13px 20px;
+    width: 180px;
+    left: 0px;
+  }
 }
 
 @media (max-width: 586px){
@@ -689,10 +695,10 @@ body {
     line-height: 20px;
   }
   .form .form-block form input {
-    width:  90%;
+    width:  100%;
   }
   .form .form-block form .form-btn {
-    width:  90%;
+    width:  100%;
   }
   .proposition-block .proposition__item {
      margin-right: 0px;
