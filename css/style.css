@@ -127,15 +127,14 @@ body {
 
 .service-block .service__card span {
   color: #3399FF;
-  position: absolute;
-  bottom: 88px;
+  margin-bottom: 24px;
+  display: block;
 }
 
 .service-block .service__card-button {
-  position: absolute;
+  margin: auto;
+  margin-top: 20px;
   padding: 16px 29px;
-  bottom: 26px;
-  left: 105px;
 }
 
 .clients {
